@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos, soy de Venezuela y este es mi repositorio personal para proyectos personales, estoy iniciando en el mundo de la programacion.
 
 <!--
 **aliflowers/Aliflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
