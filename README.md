@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ali Jesús Flores
+# 👋 Hola, soy Ali Flores
 
 ### 🏛️ Technical Product Lead & AI Systems Director
 **Orquestación de Agentes de IA · Arquitectura de Software · Gobernanza SDD/TDD · Sistemas Empresariales & Fintech**
