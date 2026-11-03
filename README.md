@@ -1,21 +1,21 @@
-# 👋 Hola, soy Ali Flores
+# 👋 Hola, soy Ali Jesús Flores
 
 ### 🏛️ Technical Product Lead & AI Systems Director
 **Orquestación de Agentes de IA · Arquitectura de Software · Gobernanza SDD/TDD · Sistemas Empresariales & Fintech**
 
 Líder Técnico de Sistemas especializado en traducir modelos de negocio complejos en especificaciones de ingeniería rigurosas (**Spec-Driven Development**) y dirigir el ciclo de vida completo de plataformas de misión crítica mediante la orquestación y gobernanza estricta de agentes de Inteligencia Artificial bajo **TDD, compuertas GATE GREEN y arquitectura hexagonal**.
 
-He liderado y puesto en producción **4 ecosistemas empresariales** que superan **450.000 líneas de código tipado** y **1.700 pruebas automatizadas** sin regresiones operativas.
+He liderado y puesto en producción plataformas empresariales de misión crítica (Fintech, CRM corporativo con ERP legado, Inteligencia Geoespacial y E-commerce de alta disponibilidad), respaldadas por más de **1.700 pruebas automatizadas** y arquitecturas resilientes con cero tiempo de inactividad no planificado.
 
 ---
 
-### 🛠️ Tecnologías y Ecosistemas Supervisados
+### 🛠️ Ecosistema Tecnológico & Herramientas de Producción
 
 #### **Lenguajes y Core**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### **Frontend & Frameworks**
@@ -48,17 +48,21 @@ He liderado y puesto en producción **4 ecosistemas empresariales** que superan 
 
 ---
 
-### 🌐 Contribución Open Source Destacada
-- **[evolution-foundation/evolution-go](https://github.com/evolution-foundation/evolution-go):** Corrección técnica en el protocolo de sincronización de versiones de WhatsApp Web (`store.SetWAVersion`), solventando caídas globales por `405 Client Outdated` en despliegues concurrentes de alta carga ([PR #227](https://github.com/evolution-foundation/evolution-go/pull/227) — Aprobado por mantenedores).
+### 🌟 Proyectos de Autor & Contribuciones Open Source
+
+| Proyecto | Tipo | Descripción y Arquitectura |
+| :--- | :--- | :--- |
+| **[DevDetox](https://github.com/aliflowers/DevDetox)** | Software de Autor | Suite de optimización profunda y auditoría para entornos de desarrollo en Windows. Motor sandboxed de ejecución segura, desinstalador heurístico WMI, recolector de dependencias zombi de Node.js y compactador VHDX de Docker. |
+| **[evolution-go](https://github.com/evolution-foundation/evolution-go)** | Open Source (Go) | Corrección técnica en el protocolo de sincronización de versiones de WhatsApp Web (`store.SetWAVersion`), solventando caídas globales por `405 Client Outdated` en despliegues concurrentes ([PR #227](https://github.com/evolution-foundation/evolution-go/pull/227) — Aprobado por mantenedores). |
 
 ---
 
-### 🚀 Ecosistemas Dirigidos en Producción
+### 🚀 Ecosistemas Empresariales Dirigidos en Producción
 
-| Proyecto | Alcance y Arquitectura | Stack Supervisado |
+| Plataforma | Alcance y Arquitectura | Stack Implementado |
 | :--- | :--- | :--- |
 | **LautCONNECT CRM** | Ecosistema corporativo de distribución comercial (120 usuarios, 4.800 clientes). Red híbrida Zero-Trust mTLS + WireGuard con ERP Profit Plus (SQL Server). Pruebas de carga certificadas con Grafana k6 (1.000 VUs, 0% fallos). | Node.js, Next.js, PostgreSQL 16, Redis 7, Railway, BullMQ |
-| **Fengxchange 2.0** | Plataforma Fintech de tesorería y cambio multidivisa (USD, USDT, EUR, VES). Motores contables FIFO y Costo Promedio Ponderado (WAC) con WebSocket realtime y Didit KYC. 940+ pruebas unitarias. | Next.js 16, Supabase PostgreSQL, Upstash Redis, Vitest |
+| **Fengxchange 2.0** | Plataforma Fintech de tesorería y cambio multidivisa (USD, USDT, EUR, VES). Motores contables FIFO y Costo Promedio Ponderado (WAC) con WebSocket realtime y Didit KYC. 940+ pruebas automatizadas. | Next.js 16, Supabase PostgreSQL, Upstash Redis, Vitest |
 | **GEOLOC-WEB** | Plataforma de Inteligencia Geográfica y cobertura territorial de fuerza de ventas. Cartografía Mapbox GL, clustering dinámico y particionamiento multiesquema expand-and-contract. | Next.js 16, PostGIS, Mapbox GL 3.22, Supabase, Vitest |
 | **Cosas Lindas Para Ti** | E-commerce headless de joyería fina. Integración logística Olva Courier con Circuit Breaker, pagos HMAC-SHA256, Cloudflare R2 y cumplimiento INDECOPI. | Next.js 16, MedusaJS v2, PostgreSQL, Redis, Playwright E2E |
 
